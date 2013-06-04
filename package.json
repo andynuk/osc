@@ -1,6 +1,6 @@
 {
   "name": "osc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "this reads in OSC records and sends them onto the platform",
   "main": "index.js",
   "scripts": {
@@ -10,3 +10,6 @@
   "author": "Andy Nix",
   "license": "BSD"
 }
+
+
+{  "name": "osc",  "version": "0.0.1",  "description": "This reads in OSC records and sends them onto the platform",  "main": "index.js",  "scripts": {    "test": "echo \"Error: no test specified\" && exit 1"  },  "repository": {    "type": "git",    "url": "https://github.com/andynuk/osc"  },  "keywords": [    "Ninja",    "Blocks",    "OSC",    "Module"  ],  "dependencies": {    "node-osc":"latest"  },  "author": "Andy Nix",  "license": "MIT",  "config":{    "stations":[],    "autoRegister":true  }}
