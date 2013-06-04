@@ -1,0 +1,12 @@
+{
+  "name": "osc",
+  "version": "0.0.0",
+  "description": "this reads in OSC records and sends them onto the platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Andy Nix",
+  "license": "BSD"
+}
